@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Farhan Farhat (@Farhan-Mr) 
 - 👀 I’m interested in ... programming in C language & C++ 
-- 🌱 I’m currently learning ...C language, DSA and Web Development. 
+- 🌱 I’m currently learning ... DSA and HTML , CSS, JS . 
 - 📫 
 - 😄 
 - ⚡ 
